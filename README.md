@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Fra
 
-<!--
-**Arguur/Arguur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de Ingeniería en Mecatrónica  
+Actualmente estudio en la Universidad Nacional de Cuyo, Argentina, donde desarrollo mi aprendizaje de tecnología, programación, robótica y automatización.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades Técnicas
+
+- **Lenguajes de Programación:** Python, C++, MATLAB
+- **Áreas de Interés:** Programación orientada a objetos, Inteligencia artificial, Robótica, Realidad virtual.
+
+---
+
+## 🌟 Proyectos Destacados
+
+- **Proyecto de Programación Orientada a Objetos:**  
+  Desarrollo de sistemas modulares y reutilizables, aplicando buenas prácticas de diseño y patrones de software.
+
+- **Proyecto de Inteligencia Artificial:**  
+  Implementación de modelos básicos de IA para resolver problemas clasificación.
+
+---
+
+## 🎶 Intereses
+
+- Música
+- Deportes
+- Gatos😺
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/juan-francisco-huertas-coppo)
+- 📬 juanfranciscohuertas.wow@gmail.com
