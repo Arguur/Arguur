@@ -40,4 +40,4 @@ Actualmente estudio en la Universidad Nacional de Cuyo, Argentina, donde desarro
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/juan-francisco-huertas-coppo)
--  juanfranciscohuertas.wow@gmail.com
+- huertas.juan@uncuyo.edu.ar
