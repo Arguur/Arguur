@@ -9,7 +9,7 @@ Actualmente estudio en la Universidad Nacional de Cuyo, Argentina, donde desarro
 ##  Habilidades Técnicas
 
 - **Lenguajes de Programación:** Python, C++, MATLAB
-- **Áreas de Interés:** Programación orientada a objetos, Inteligencia artificial, Robótica, Realidad virtual
+- **Áreas de Interés:** Robótica, Inteligencia artificial, Programación orientada a objetos, Realidad virtual
 
 ---
 
