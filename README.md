@@ -23,15 +23,6 @@ Actualmente estudio en la Universidad Nacional de Cuyo, Argentina, donde desarro
 
 ---
 
-##  Estadísticas de GitHub
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arguur&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arguur&theme=tokyonight&hide_border=true)
-
-
 </div>
 
 ---
